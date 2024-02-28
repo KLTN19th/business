@@ -25,6 +25,11 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.kie</groupId>
+      <artifactId>kie-kjar-archetype</artifactId>
+      <version>8.27.0.Beta</version>
+    </dependency>
   </dependencies>
 
   <build>
